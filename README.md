@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Jose, an experienced Data Scientist with a strong background in medicine and surgery. Skilled in developing innovative solutions using AI, ML, and data analysis. Proven track record of improving operational efficiencies and leading successful projects in the healthcare sector. 
+
 <!--
 **joseavegaa/joseavegaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
